@@ -1,0 +1,18 @@
+opencv-python
+numpy
+tqdm
+matplotlib
+tensorflow
+pandas
+nltk
+spacy
+contractions
+textblob
+transformers
+scikit-learn
+joblib
+google-generativeai
+scipy
+flask
+deepface
+threading2 ; sys_platform == "win32"
