@@ -5,6 +5,12 @@
 
 Emotion-GAN is an advanced multimodal emotion recognition and response generation system that integrates **facial expression analysis** and **text-based sentiment detection** to create personalized emotional outputs such as **GIFs** or **stickers**. The system is designed for real-time applications and optimized for robust emotion understanding in diverse user environments.
 
+
+https://github.com/user-attachments/assets/c1d95f96-e97a-4af4-9598-3b539d20b984
+
+
+
+
 ## 🔍 Project Overview
 
 This system fuses visual and textual emotion streams using a novel **AEWDO (Adaptive Entropy-Weighted Decision Optimization)** strategy to generate accurate emotional responses. It consists of:
