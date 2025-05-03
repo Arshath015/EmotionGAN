@@ -11,6 +11,13 @@ https://github.com/user-attachments/assets/9245349d-0522-47f9-adc2-303da8eaf50b
 
 
 
+## Fusion Details![image](https://github.com/user-attachments/assets/fa84641a-9f6f-4d66-a0e9-576842f40f6e)
+
+## Face Emotion Analysis ![image](https://github.com/user-attachments/assets/b0aba88f-8973-470d-8faa-7e0dddc7a700)
+
+## Text Emotion Analysis ![image](https://github.com/user-attachments/assets/b3ce3767-1031-4b0e-ac1a-563800382d81)
+
+
 ## 🔍 Project Overview
 
 This system fuses visual and textual emotion streams using a novel **AEWDO (Adaptive Entropy-Weighted Decision Optimization)** strategy to generate accurate emotional responses. It consists of:
