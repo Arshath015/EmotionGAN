@@ -1,5 +1,7 @@
 # Emotion-GAN: Multimodal Emotion Recognition and Response Generation
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 Emotion-GAN is an advanced multimodal emotion recognition and response generation system that integrates **facial expression analysis** and **text-based sentiment detection** to create personalized emotional outputs such as **GIFs** or **stickers**. The system is designed for real-time applications and optimized for robust emotion understanding in diverse user environments.
 
 
