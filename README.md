@@ -213,3 +213,10 @@ This project is intended for research and educational purposes. Please refer to 
 
 ---
 
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
