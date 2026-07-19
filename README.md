@@ -222,3 +222,7 @@ This project is intended for research and educational purposes. Please refer to 
 ```
 pip install -r requirements.txt
 ```
+
+
+---
+**Last updated:** 2026-07-19
